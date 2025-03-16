@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 143 120" style="enable-background:new 0 0 143 120;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0073EA;}
+	.st1{fill:none;stroke:#3B66B5;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#4385F4;}
+	.st3{fill:#FAFBFC;}
+	.st4{fill:#3B66B5;}
+	.st5{fill:#E6E9EC;}
+	.st6{fill:#FFBB00;}
+	.st7{fill:#D8DBDF;}
+	.st8{fill:#FFFFFF;stroke:#FFBB00;stroke-miterlimit:10;}
+	.st9{fill:#E6E9EC;stroke:#D8DBDF;stroke-width:0.8355;stroke-miterlimit:10;}
+	.st10{fill:#979FA5;}
+	.st11{fill:#FFFFFF;}
+	.st12{fill:#FFAA00;}
+	.st13{fill:#FF8500;}
+	.st14{fill:#00B036;}
+	.st15{fill:#008E23;}
+	.st16{fill:#004EA8;}
+	.st17{fill:none;stroke:#FFBB00;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3;}
+	.st18{fill:#00732E;}
+	.st19{fill:none;stroke:#008E23;stroke-width:0.7262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#008E23;stroke-width:0.8079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st21{fill:none;stroke:#00B036;stroke-width:0.7484;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st22{clip-path:url(#XMLID_2_);}
+	.st23{fill:#EFF2F3;}
+	.st24{fill:none;stroke:#FFAA00;stroke-miterlimit:10;}
+	.st25{fill:#FF2C25;}
+	.st26{fill:none;stroke:#FFAA00;stroke-width:1.8388;stroke-miterlimit:10;}
+	.st27{fill:#00AB3E;}
+	.st28{fill:#EA4335;}
+	.st29{fill:#FABB05;}
+	.st30{fill:#34A853;}
+	.st31{fill:none;stroke:#D8DBDF;stroke-miterlimit:10;}
+	.st32{fill:#00AC47;}
+	.st33{display:none;opacity:0.5;}
+	.st34{display:inline;}
+	.st35{fill-rule:evenodd;clip-rule:evenodd;fill:#00C0E0;}
+	.st36{fill-rule:evenodd;clip-rule:evenodd;fill:#007B82;}
+	.st37{fill-rule:evenodd;clip-rule:evenodd;fill:#009DAF;}
+	.st38{fill-rule:evenodd;clip-rule:evenodd;fill:#008490;}
+	.st39{fill-rule:evenodd;clip-rule:evenodd;fill:#00CCE6;}
+	.st40{fill-rule:evenodd;clip-rule:evenodd;fill:#00B4CB;}
+	.st41{fill-rule:evenodd;clip-rule:evenodd;fill:#B8EFF7;}
+	.st42{fill-rule:evenodd;clip-rule:evenodd;fill:#00D8EC;}
+	.st43{fill-rule:evenodd;clip-rule:evenodd;fill:#78E3F2;}
+	.st44{fill-rule:evenodd;clip-rule:evenodd;fill:#DBF6FA;}
+	.st45{fill:#202124;}
+	.st46{fill-rule:evenodd;clip-rule:evenodd;fill:#B741F7;}
+	.st47{fill-rule:evenodd;clip-rule:evenodd;fill:#791CAA;}
+	.st48{fill-rule:evenodd;clip-rule:evenodd;fill:#8726BD;}
+	.st49{fill-rule:evenodd;clip-rule:evenodd;fill:#A833E9;}
+	.st50{fill-rule:evenodd;clip-rule:evenodd;fill:#972FD1;}
+	.st51{fill-rule:evenodd;clip-rule:evenodd;fill:#F0D1FF;}
+	.st52{fill-rule:evenodd;clip-rule:evenodd;fill:#D689FB;}
+	.st53{fill-rule:evenodd;clip-rule:evenodd;fill:#C45CFA;}
+	.st54{fill-rule:evenodd;clip-rule:evenodd;fill:#F6E7FD;}
+	.st55{fill-rule:evenodd;clip-rule:evenodd;fill:#E4ADFD;}
+	.st56{fill-rule:evenodd;clip-rule:evenodd;fill:#FF2594;}
+	.st57{fill-rule:evenodd;clip-rule:evenodd;fill:#FF63BA;}
+	.st58{fill-rule:evenodd;clip-rule:evenodd;fill:#FF39A2;}
+	.st59{fill-rule:evenodd;clip-rule:evenodd;fill:#B4166D;}
+	.st60{fill-rule:evenodd;clip-rule:evenodd;fill:#F01886;}
+	.st61{fill-rule:evenodd;clip-rule:evenodd;fill:#D50674;}
+	.st62{fill-rule:evenodd;clip-rule:evenodd;fill:#FFCEE8;}
+	.st63{fill-rule:evenodd;clip-rule:evenodd;fill:#FF8ACC;}
+	.st64{fill-rule:evenodd;clip-rule:evenodd;fill:#FFA8D7;}
+	.st65{fill-rule:evenodd;clip-rule:evenodd;fill:#FFE6F2;}
+	.st66{fill-rule:evenodd;clip-rule:evenodd;fill:#FF7B03;}
+	.st67{fill-rule:evenodd;clip-rule:evenodd;fill:#C46000;}
+	.st68{fill-rule:evenodd;clip-rule:evenodd;fill:#EF6E00;}
+	.st69{fill-rule:evenodd;clip-rule:evenodd;fill:#D96400;}
+	.st70{fill-rule:evenodd;clip-rule:evenodd;fill:#FF7100;}
+	.st71{fill-rule:evenodd;clip-rule:evenodd;fill:#FF8F37;}
+	.st72{fill-rule:evenodd;clip-rule:evenodd;fill:#FFAC6C;}
+	.st73{fill-rule:evenodd;clip-rule:evenodd;fill:#FFC599;}
+	.st74{fill-rule:evenodd;clip-rule:evenodd;fill:#FFDEC6;}
+	.st75{fill-rule:evenodd;clip-rule:evenodd;fill:#FFEEE1;}
+	.st76{fill-rule:evenodd;clip-rule:evenodd;fill:#FFF6DE;}
+	.st77{fill-rule:evenodd;clip-rule:evenodd;fill:#FFEEC0;}
+	.st78{fill-rule:evenodd;clip-rule:evenodd;fill:#FFE18D;}
+	.st79{fill-rule:evenodd;clip-rule:evenodd;fill:#FFD55A;}
+	.st80{fill-rule:evenodd;clip-rule:evenodd;fill:#FFC81B;}
+	.st81{fill-rule:evenodd;clip-rule:evenodd;fill:#FF9800;}
+	.st82{fill-rule:evenodd;clip-rule:evenodd;fill:#FF8500;}
+	.st83{fill-rule:evenodd;clip-rule:evenodd;fill:#FF7400;}
+	.st84{fill:#00A74D;}
+	.st85{fill-rule:evenodd;clip-rule:evenodd;fill:#DFF3E9;}
+	.st86{fill-rule:evenodd;clip-rule:evenodd;fill:#C0E9D4;}
+	.st87{fill-rule:evenodd;clip-rule:evenodd;fill:#8CD9B2;}
+	.st88{fill-rule:evenodd;clip-rule:evenodd;fill:#4CC891;}
+	.st89{fill:#00B870;}
+	.st90{fill:#008D37;}
+	.st91{fill-rule:evenodd;clip-rule:evenodd;fill:#008032;}
+	.st92{fill-rule:evenodd;clip-rule:evenodd;fill:#00732E;}
+	.st93{fill-rule:evenodd;clip-rule:evenodd;fill:#006529;}
+	.st94{fill-rule:evenodd;clip-rule:evenodd;fill:#FFE7E5;}
+	.st95{fill-rule:evenodd;clip-rule:evenodd;fill:#FFD1CE;}
+	.st96{fill-rule:evenodd;clip-rule:evenodd;fill:#FFADA8;}
+	.st97{fill-rule:evenodd;clip-rule:evenodd;fill:#FF8A81;}
+	.st98{fill-rule:evenodd;clip-rule:evenodd;fill:#FF675C;}
+	.st99{fill:#D93025;}
+	.st100{fill-rule:evenodd;clip-rule:evenodd;fill:#C5221F;}
+	.st101{fill-rule:evenodd;clip-rule:evenodd;fill:#B31412;}
+	.st102{fill-rule:evenodd;clip-rule:evenodd;fill:#A50E0E;}
+	.st103{fill:#0084F6;}
+	.st104{fill-rule:evenodd;clip-rule:evenodd;fill:#E4EFFF;}
+	.st105{fill-rule:evenodd;clip-rule:evenodd;fill:#CAE2FC;}
+	.st106{fill-rule:evenodd;clip-rule:evenodd;fill:#A0CAFB;}
+	.st107{fill-rule:evenodd;clip-rule:evenodd;fill:#74B3F9;}
+	.st108{fill-rule:evenodd;clip-rule:evenodd;fill:#419CF8;}
+	.st109{fill-rule:evenodd;clip-rule:evenodd;fill:#0067D4;}
+	.st110{fill-rule:evenodd;clip-rule:evenodd;fill:#005ABE;}
+	.st111{fill-rule:evenodd;clip-rule:evenodd;fill:#004EA8;}
+	.st112{fill:#5D6368;}
+	.st113{fill:#F7F8F9;}
+	.st114{fill:#BAC0C5;}
+	.st115{fill:#7E858A;}
+	.st116{fill:#3A4043;}
+</style>
+<g id="adv_x5F_prot_x5F_prog">
+</g>
+<g id="phys_x5F_sec_x5F_key">
+</g>
+<g id="smart_x5F_lock">
+</g>
+<g id="google_x5F_prompts">
+</g>
+<g id="security_x5F_checkup">
+	<g>
+		<g>
+			<path class="st2" d="M67.8,9.4c12.8,3.8,25.4,7.6,38,11.6c0.1,1.4,0.1,29.9,0.1,29.9c-0.4,18.7-7.6,34.5-21.2,47.3
+				c-3.8,3.5-10.9,8.7-16.9,10.9c-4.3-1.5-8.1-4.2-11.9-7C42.4,91.8,34.3,78,31,61.5c-0.9-4.8-1.5-9.7-1.4-14.7l0.1-25.4
+				C42.1,16.8,54.9,13.7,67.8,9.4z"/>
+		</g>
+		<path class="st3" d="M82.4,48.1h-1.8v-4.9c0-7.1-5.8-12.9-12.9-12.9h0c-7.1,0-12.9,5.8-12.9,12.9v4.9h-1.7c-2.5,0-4.6,2-4.6,4.6
+			v24.2c0,2.5,2,4.6,4.6,4.6h29.3c2.5,0,4.6-2,4.6-4.6V52.6C87,50.1,84.9,48.1,82.4,48.1z M59.9,43.6c0-4.3,3.5-7.8,7.8-7.8
+			c4.3,0,7.8,3.5,7.8,7.8v4.5H59.9V43.6z"/>
+		<path class="st4" d="M72.9,63.5c0-2.9-2.3-5.2-5.2-5.2c-2.9,0-5.2,2.3-5.2,5.2c0,1.8,1,3.5,2.4,4.4V73h5.5v-5.2
+			C71.9,66.9,72.9,65.3,72.9,63.5z"/>
+	</g>
+	<g>
+		<path class="st32" d="M93.6,67.7c-11.2,0-20.3,9.1-20.3,20.3s9.1,20.3,20.3,20.3s20.3-9.1,20.3-20.3S104.7,67.7,93.6,67.7z"/>
+		<polygon class="st11" points="90.1,96.6 81.3,87.9 83.8,85.4 90.1,91.7 103.3,78.4 105.8,80.9 		"/>
+	</g>
+</g>
+<g id="reference" class="st33">
+</g>
+<g id="palette">
+</g>
+</svg>
