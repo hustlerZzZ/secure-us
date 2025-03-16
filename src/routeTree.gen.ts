@@ -11,10 +11,31 @@
 // Import Routes
 
 import { Route as rootRoute } from './routes/__root'
+import { Route as WelcomeImport } from './routes/welcome'
+import { Route as VerifyImport } from './routes/verify'
+import { Route as TrainUsImport } from './routes/train-us'
 import { Route as AboutImport } from './routes/about'
 import { Route as IndexImport } from './routes/index'
 
 // Create/Update Routes
+
+const WelcomeRoute = WelcomeImport.update({
+  id: '/welcome',
+  path: '/welcome',
+  getParentRoute: () => rootRoute,
+} as any)
+
+const VerifyRoute = VerifyImport.update({
+  id: '/verify',
+  path: '/verify',
+  getParentRoute: () => rootRoute,
+} as any)
+
+const TrainUsRoute = TrainUsImport.update({
+  id: '/train-us',
+  path: '/train-us',
+  getParentRoute: () => rootRoute,
+} as any)
 
 const AboutRoute = AboutImport.update({
   id: '/about',
@@ -46,6 +67,27 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AboutImport
       parentRoute: typeof rootRoute
     }
+    '/train-us': {
+      id: '/train-us'
+      path: '/train-us'
+      fullPath: '/train-us'
+      preLoaderRoute: typeof TrainUsImport
+      parentRoute: typeof rootRoute
+    }
+    '/verify': {
+      id: '/verify'
+      path: '/verify'
+      fullPath: '/verify'
+      preLoaderRoute: typeof VerifyImport
+      parentRoute: typeof rootRoute
+    }
+    '/welcome': {
+      id: '/welcome'
+      path: '/welcome'
+      fullPath: '/welcome'
+      preLoaderRoute: typeof WelcomeImport
+      parentRoute: typeof rootRoute
+    }
   }
 }
 
@@ -54,36 +96,51 @@ declare module '@tanstack/react-router' {
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/train-us': typeof TrainUsRoute
+  '/verify': typeof VerifyRoute
+  '/welcome': typeof WelcomeRoute
 }
 
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/train-us': typeof TrainUsRoute
+  '/verify': typeof VerifyRoute
+  '/welcome': typeof WelcomeRoute
 }
 
 export interface FileRoutesById {
   __root__: typeof rootRoute
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/train-us': typeof TrainUsRoute
+  '/verify': typeof VerifyRoute
+  '/welcome': typeof WelcomeRoute
 }
 
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/about'
+  fullPaths: '/' | '/about' | '/train-us' | '/verify' | '/welcome'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/about'
-  id: '__root__' | '/' | '/about'
+  to: '/' | '/about' | '/train-us' | '/verify' | '/welcome'
+  id: '__root__' | '/' | '/about' | '/train-us' | '/verify' | '/welcome'
   fileRoutesById: FileRoutesById
 }
 
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
+  TrainUsRoute: typeof TrainUsRoute
+  VerifyRoute: typeof VerifyRoute
+  WelcomeRoute: typeof WelcomeRoute
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
+  TrainUsRoute: TrainUsRoute,
+  VerifyRoute: VerifyRoute,
+  WelcomeRoute: WelcomeRoute,
 }
 
 export const routeTree = rootRoute
@@ -97,7 +154,10 @@ export const routeTree = rootRoute
       "filePath": "__root.tsx",
       "children": [
         "/",
-        "/about"
+        "/about",
+        "/train-us",
+        "/verify",
+        "/welcome"
       ]
     },
     "/": {
@@ -105,6 +165,15 @@ export const routeTree = rootRoute
     },
     "/about": {
       "filePath": "about.tsx"
+    },
+    "/train-us": {
+      "filePath": "train-us.tsx"
+    },
+    "/verify": {
+      "filePath": "verify.tsx"
+    },
+    "/welcome": {
+      "filePath": "welcome.tsx"
     }
   }
 }
