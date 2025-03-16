@@ -1,3 +1,4 @@
+import {SignedIn, SignedOut, SignInButton, UserButton} from "@clerk/clerk-react";
 import img from "../../assets/security.svg";
 import { Link } from "@tanstack/react-router";
 import { Button } from "@/components/ui/button";
@@ -51,14 +52,21 @@ function App() {
                     </div>
                     <div className="flex flex-1 items-center justify-end space-x-4">
                         <nav className="flex items-center space-x-2">
-                            <Button
-                                variant="outline"
-                                size="sm"
-                                className="hidden sm:flex"
-                            >
-                                Log in
-                            </Button>
-                            <Button size="sm">Get Started</Button>
+                            <SignedOut>
+                                <SignInButton>
+                                    <Button
+                                        variant="outline"
+                                        size="sm"
+                                        className="hidden sm:flex"
+                                    >
+                                        Log in
+                                    </Button>
+                                </SignInButton>
+                            </SignedOut>
+                            <SignedIn>
+                                <UserButton />
+                            </SignedIn>
+
                         </nav>
                     </div>
                 </div>
